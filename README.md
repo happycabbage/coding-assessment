@@ -1,6 +1,6 @@
 # HCA Coding Assessment
 
-This repository represents a simple API that stores and retrieves "Transaction".
+This repository represents a simple API that stores and retrieves "Transactions".
 
 ## API Overview
 To start the API, run:
