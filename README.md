@@ -35,4 +35,4 @@ You can then retrieve transaction with a `GET` to that same resource:
 ]
 ```
 
-Note
+Note that this project usings an in-memory embedded database for persistence, so if you restart the running service anything you create will be gone!
