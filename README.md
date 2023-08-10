@@ -56,4 +56,4 @@ Note there are three CSVs, each with data stored slightly differently.
 ## Additional Questions
 
 1. Imagine one of these data sources started providing us individual transactions in JSON via a webhook. How would you refactor your code to handle this with minimal duplication?
-2. How easy would it be for us to add a fourth or fifth data source? How would you refactor your code to make it easy to handle new data sources?
+2. How easy would it be for us to add a fourth or fifth data source? How would you refactor your code to make it easier to handle new data sources?
