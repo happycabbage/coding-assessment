@@ -45,7 +45,7 @@ anything you create will be gone!
 ## TODO
 
 1. Add an API that accepts a CSV of transactions in one of the three formats defined in `src/main/fixtures`.
-2. Take that csv and transform it into a `Transaction`, depending on the format, the CSVs we will use for testing can be found in `src/main/fixtures`.
+2. Take that csv and transform it into a `Transaction`, depending on the format. Insert the transaction into our repository. The CSVs we will use for testing can be found in `src/main/fixtures`.
    
 Note there are three CSVs, each with data stored slightly differently.
 
